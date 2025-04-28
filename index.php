@@ -3,7 +3,7 @@
 <body style="background-color:green;">
 <marquee>
 <h1> Hello J2C Technologies.....!!!!!!!!! V2 Hello world </h1>
-</marquee>marquee>
+</marquee>
 
 </body>
 </html>
